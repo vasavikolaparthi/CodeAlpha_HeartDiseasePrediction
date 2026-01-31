@@ -1,1 +1,1 @@
-# CodeAlpha_HeartDisease
+# CodeAlpha_HeartDiseasePrediction
